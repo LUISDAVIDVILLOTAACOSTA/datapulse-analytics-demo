@@ -1,8 +1,5 @@
-requirements.txt
-
 streamlit
 pandas
 openpyxl
 fpdf2
 matplotlib
-
