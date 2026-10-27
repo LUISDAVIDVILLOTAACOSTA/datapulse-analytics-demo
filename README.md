@@ -25,4 +25,7 @@ Este repositorio sirve estrictamente como portafolio técnico y exhibición come
 
 ---
 🏢 **Desarrollado y Distribuido por:** Luis David Villota | *DataPulse Labs*  
-🚀 **Contacto Corporativo & Consultoría Freelance:** ¿Desea adquirir la Licencia Pro corporativa desbloqueada, soporte de software por horas o integraciones dedicadas a bases de datos SQL? Conéctemos de forma profesional a través de mi [Perfil de LinkedIn]https://www.linkedin.com/in/luis-david-villota-acosta-a1bb17433/
+🚀 **🚀 **Contacto Corporativo & Consultoría Freelance:** ¿Desea adquirir la Licencia Pro corporativa desbloqueada, soporte de software por horas o integraciones dedicadas a bases de datos SQL? Conectemos de forma profesional a través de mi [Perfil de LinkedIn](https://linkedin.com/in/luis-david-villota-acosta-a1bb17433).
+
+
+
