@@ -1,0 +1,48 @@
+📦 DATAPULSE ANALYTICS PRO v1.2 - MANUAL DE INSTALACIÓN Y OPERACIÓN
+==================================================================
+¡Gracias por adquirir la Licencia Completa Corporativa de DataPulse Analytics Pro! 
+Esta herramienta automatiza el procesamiento matemático de datos y la exportación 
+de reportes ejecutivos en PDF con gráficos integrados de forma 100% local y segura.
+
+🛠️ REQUISITOS PREVIOS
+---------------------
+Para ejecutar este software en tu infraestructura privada necesitas:
+1. Python (Versión 3.9 o superior) instalado desde python.org.
+2. Un navegador web moderno (Google Chrome, Firefox o Microsoft Edge).
+
+🚀 INSTRUCCIONES DE INSTALACIÓN (En un minuto)
+---------------------------------------------
+1. Descomprime este archivo .ZIP en una carpeta de tu computadora (ej. en el Escritorio).
+2. Abre la consola de comandos de tu sistema operativo (Símbolo del sistema o CMD).
+3. Entra a la carpeta del proyecto ejecutando el comando:
+   cd Desktop/Nombre_De_Tu_Carpeta
+4. Instala todas las dependencias oficiales copiando y pegando el siguiente comando:
+   pip install streamlit pandas openpyxl fpdf2 matplotlib
+5. Enciende tu servidor privado corporativo ejecutando:
+   python -m streamlit run datapulse_pro.py
+
+El sistema abrirá de forma automática una pestaña en tu navegador web en la dirección 
+http://localhost:8501 con tu licencia corporativa activa y desbloqueada.
+
+📊 MANUAL DE USO PARA ANALISTAS
+-------------------------------
+1. Carga de Archivos: Arrastra tu documento de Excel (.xlsx) o CSV a la zona de carga.
+2. Mapeo de Datos: Utiliza las tres listas desplegables para indicarle al software 
+   cuáles son tus columnas de Clasificación, Volúmenes y Valores Métricos. El sistema 
+   recalculará los KPIs y redibujará las gráficas esmeralda al instante.
+3. Exportación: Ve a la sección "Reporte de Salida" y presiona el botón azul para 
+   descargar un documento PDF ejecutivo impecable con tus números y gráficos listos 
+   para presentar en juntas directivas.
+
+📊 NOVEDADES DE LA LICENCIA CORPORATIVA PRO v2.0:
+-------------------------------------------------
+1. Mapeo Maestro Lateral: Interfaz organizada en barra lateral para mayor comodidad visual.
+2. Filtros Inteligentes Dinámicos: Segmentación multiselección en tiempo real de cualquier categoría.
+3. Diagnóstico Automático (Insights): Módulo que identifica de forma automática picos de máximo rendimiento y alertas de control requerido.
+4. Centro de Descargas Doble: Exportación de informe ejecutivo en formato PDF corporativo y descarga directa de la base de datos limpia y segmentada en formato Excel (.xlsx).
+
+
+------------------------------------------------------------------
+Desarrollado de forma independiente por [LUIS DAVID VILLOTA ACOSTA / DataPulseLabs]. Para soporte especializado, 
+desarrollo de conectores SQL directos o personalizaciones a la medida, 
+contáctame a través de mi perfil profesional en LinkedIn.
